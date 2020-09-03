@@ -11,7 +11,7 @@ email: xyzheng@nao.cas.cn
 description: All the models are wrong, but some are good.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://astroxyzheng.github.io" # the base hostname & protocol for your site
-twitter_username: xueying93638424
+twitter_username: XueyingChar
 github_username:  astroxyzheng
 paginate: 5
 theme-dark: true #Set to true to change to dark website theme
