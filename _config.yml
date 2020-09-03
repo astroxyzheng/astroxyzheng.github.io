@@ -14,7 +14,7 @@ url: "http://astroxyzheng.github.io" # the base hostname & protocol for your sit
 twitter_username: XueyingChar
 github_username:  astroxyzheng
 paginate: 5
-theme-dark: true #Set to true to change to dark website theme
+theme-dark: false #Set to true to change to dark website theme
 tagline: "This is a custom tagline content which overrides the default page excerpt."
 header:
   overlay_image: /m31xray.png
