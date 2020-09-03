@@ -8,13 +8,13 @@
 # Site settings
 title: Xueying's some goods for X-ray universe
 email: xyzheng@nao.cas.cn
-description: The Liberal Jekyll Theme
+description: All the models are wrong, but some are good.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://astroxyzheng.github.io" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
+twitter_username: @xueying93638424
 github_username:  astroxyzheng
 paginate: 5
-theme-dark: false #Set to true to change to dark website theme
+theme-dark: ture #Set to true to change to dark website theme
 
 plugins: [jekyll-paginate, kramdown]
 # Build settings
