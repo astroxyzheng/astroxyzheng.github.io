@@ -17,7 +17,7 @@ paginate: 5
 theme-dark: true #Set to true to change to dark website theme
 tagline: "This is a custom tagline content which overrides the default page excerpt."
 header:
-  overlay_image: /test.jpg
+  overlay_image: /m31xray.png
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   
 plugins: [jekyll-paginate, kramdown]
