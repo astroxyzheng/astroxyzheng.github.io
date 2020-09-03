@@ -14,7 +14,7 @@ url: "http://astroxyzheng.github.io" # the base hostname & protocol for your sit
 twitter_username: @xueying93638424
 github_username:  astroxyzheng
 paginate: 5
-theme-dark: ture #Set to true to change to dark website theme
+theme-dark: true #Set to true to change to dark website theme
 
 plugins: [jekyll-paginate, kramdown]
 # Build settings
