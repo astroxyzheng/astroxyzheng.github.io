@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: "X-ray sky"
